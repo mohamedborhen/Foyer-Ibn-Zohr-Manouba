@@ -66,7 +66,7 @@ This project is built using **PHP**, **HTML**, **CSS**, **JavaScript**, and **My
 # Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/foyer-ibn-zohr.git
+   git clone https://github.com/mohamedborhen/Foyer-Ibn-Zohr-Manouba
    cd foyer-ibn-zohr
    ```
 
@@ -216,4 +216,4 @@ For questions or feedback, contact the project maintainer:
 
 ---
 
-Built with ❤️ by Me and Mr Ayoub JRIBI and Borhen KHLIFI
+Built by Me and my colleagues Ayoub JRIBI and Badreddine YOUNSI
